@@ -1,0 +1,12 @@
+JAVASCRIPT EXECUTION CONTEXT 
+
+1) Global execution CONTEXT
+2) Function execution CONTEXT
+3) Eval execution CONTEXT
+
+
+MEMORY CREATION PHASE 
+-allocate the MEMORY
+
+EXECUTION PAHSE
+-
